@@ -1,0 +1,11 @@
+body {
+  font-family: "Comic Sans MS";
+  text-align: center;
+  color: red;
+  cursor: url('cursor.cur'), auto;
+  height: 100%;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
