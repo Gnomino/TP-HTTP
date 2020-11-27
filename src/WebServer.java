@@ -11,6 +11,10 @@ import java.nio.file.Files;
  * @author Thomas Buresi & Sylvain Vaure
  */
 public class WebServer {
+
+    /**
+     * The port on which the server will be listening
+     */
     protected static final int PORT = 3000;
 
     /**
